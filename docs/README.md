@@ -1,2 +1,2 @@
 # Machine Learning Lib
-Modules: classification, regression
+Modules: classification, regression, compute
